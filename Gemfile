@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'airrecord', '~> 1.0.0'
+gem 'byebug'
+gem 'minitest'
+gem 'rake'
