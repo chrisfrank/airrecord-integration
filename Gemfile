@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
-gem 'airrecord', '~> 1.0.0'
+gem 'airrecord', path: '../airrecord'
 gem 'byebug'
 gem 'minitest'
 gem 'rake'
+gem 'dotenv'
